@@ -55,7 +55,7 @@ class YearLevel extends Person {
 
 class Student extends PersonalInfo {
     program() {
-        return "BSIT";
+        return "BS Info Tech";
     }
 }
 
