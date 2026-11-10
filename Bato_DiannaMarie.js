@@ -1,6 +1,6 @@
 let name = ["Dianna", "Rowelyn", "Sofia", "Jeruel"];
 let age = [20, 17, 16, 11];
-let yearLevel = ["thirdYear", "Grade12", "Grade11", "Grade6"];
+let yearLevel = ["3rd Year", "Grade 12", "Grade 11", "Grade 6"];
 
 for (let i = 0; i < age.length; i++) {
     if (age[i] >= 18)
