@@ -11,5 +11,5 @@ class Person {
 
 let person = new Person();
 
-person.name = "Dianna Marie";
+person.name = "Rowelyn Bato";
 console.log(person.name);
