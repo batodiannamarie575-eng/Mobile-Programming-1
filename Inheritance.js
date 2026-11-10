@@ -4,8 +4,8 @@ class Person {
     }
 }
 
-class student extends Person {
+class teacher extends Person {
 }
 
-let student = new Student();
-student.name();
+let teacher = new Teacher();
+teacher.name();
