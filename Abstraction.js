@@ -1,7 +1,7 @@
 class Greetings {
     #method1()
     {
-        console.log("Hello!");
+        console.log("Good Day!");
     }
     method2()
     {
