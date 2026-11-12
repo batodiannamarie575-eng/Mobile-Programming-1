@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
@@ -66,3 +67,6 @@ export default function App() {
     </LibraryProvider>
   );
 }
+=======
+export { default } from './Activity 5/App';
+>>>>>>> fa58fc8b563a86c8bb06aca7f74243d5a9f4d5b7

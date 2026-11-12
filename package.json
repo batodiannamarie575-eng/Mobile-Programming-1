@@ -2,17 +2,25 @@
   "name": "booklibrary",
   "license": "0BSD",
   "version": "1.0.0",
+<<<<<<< HEAD
   "main": "expo/AppEntry.js",
   "dependencies": {
     "@react-navigation/bottom-tabs": "^7.21.0",
     "@react-navigation/native": "^7.5.1",
+=======
+  "main": "index.js",
+  "dependencies": {
+>>>>>>> fa58fc8b563a86c8bb06aca7f74243d5a9f4d5b7
     "expo": "~57.0.25",
     "expo-status-bar": "~57.0.1",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "react-native": "0.86.3",
+<<<<<<< HEAD
     "react-native-safe-area-context": "~5.7.0",
     "react-native-screens": "~4.26.0",
+=======
+>>>>>>> fa58fc8b563a86c8bb06aca7f74243d5a9f4d5b7
     "react-native-web": "^0.21.2"
   },
   "scripts": {
